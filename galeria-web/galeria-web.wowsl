@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.8</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>false</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>false</Controls>
+            <FontSize>23</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName></GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>turn,parallax,slices,page</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>200</ImageHeight>
+            <ImageQuality>80</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/contour/</ImageTemplate>
+            <ImageTemplateName>Contour</ImageTemplateName>
+            <ImageWidth>1200</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>false</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>C:/xampp/htdocs/Bradesco-Dreamweaver/galeria-web/galeria-web.html</PublishFileName>
+            <PublishIndex>galeria-web.html</PublishIndex>
+            <PublishPath>C:/xampp/htdocs/Bradesco-Dreamweaver/galeria-web</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#ffffff</TemplateColor>
+            <TemplateFont>Archivo Narrow</TemplateFont>
+            <TemplateName>contour</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>C:/xampp/htdocs/Bradesco-Dreamweaver/imagens/codigo.jpg</url>
+                <filesize>69254</filesize>
+            </Image>
+            <Image>
+                <url>C:/xampp/htdocs/Bradesco-Dreamweaver/imagens/profissional.jpg</url>
+                <title>profissional</title>
+                <filesize>58038</filesize>
+            </Image>
+            <Image>
+                <url>C:/xampp/htdocs/Bradesco-Dreamweaver/imagens/siteruim.jpg</url>
+                <title>siteruim</title>
+                <filesize>183632</filesize>
+            </Image>
+            <Image>
+                <url>C:/xampp/htdocs/Bradesco-Dreamweaver/imagens/Websites.jpg</url>
+                <title>Websites</title>
+                <filesize>63558</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>

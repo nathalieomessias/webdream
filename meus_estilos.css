@@ -1,0 +1,68 @@
+@charset "utf-8";
+body {
+	font-family: verdana;
+}
+
+
+.fonte-zero {
+	margin: 0;
+	font-size: 0;
+}
+.fundo-topo {
+	background-color: #feefad;
+}
+.tel-topo {
+	font-size: x-large;
+}
+.whats-verde {
+	color: #003E01;
+}
+.menu-cor {
+	background-color: #343a40;
+}
+/* Ajustar o mapa Iframe para 100%*/
+iframe {
+	max-width: 100%;
+}
+.fundo-mapa {
+	background-color: #f2f2f2;
+}
+.fonte-branca {
+	color: white;
+}
+.icones-rodape {
+	font-size: xx-large;
+}
+.espacamento {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+/* col-xl para computadores */
+@media all and (min-width: 1200px) {
+}
+
+/* col-lg para notebook */
+@media all and (min-width: 992px) and (max-width: 1199px) {
+}
+
+/* col-md para celulares /tablet */
+@media all and (min-width: 768px) and (max-width: 991px) {
+	
+.tel-topo {
+	font-size: large;
+}	
+	
+}
+
+/* col-sm para celulares */
+@media all and (min-width: 576px) and (max-width: 767px) {
+	.tel-topo {
+	font-size: small;
+}	
+}
+
+/* col- para celulares */
+@media all and (max-width: 575px) {
+}
+
